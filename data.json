@@ -1,0 +1,39 @@
+{
+  "phrases": [
+    {
+      "foreign": "おはようございます",
+      "transcription": "ohayou gozaimas",
+      "english": "Good morning"
+    },
+    {
+      "foreign": "こんにちわ",
+      "transcription": "konnichi wa",
+      "english": "Good afternoon"
+    },
+    {
+      "foreign": "こんばんわ",
+      "transcription": "konban wa",
+      "english": "Good evening"
+    },
+    {
+      "foreign": "おやすみなさい",
+      "transcription": "oyasumi nasai",
+      "english": "Goodnight"
+    },
+    {
+      "foreign": "どうもおりがとございます",
+      "transcription": "doumo arigatou gozaimas",
+      "english": "Thank you very much"
+    },
+    {
+      "foreign": "どういたしまして",
+      "transcription": "do itashimashte",
+      "english": "You're welcome"
+    },
+    {
+      "foreign": "はじめまして",
+      "transcription": "hajimemashte",
+      "english": "Nice to meet you"
+    }
+  ]
+}
